@@ -7,8 +7,7 @@ QuillConnect is a social networking platform for writers to share their posts, c
 ## **Table of Contents**
 1. [Features](#features)
 2. [Environment Variables](#environment-variables)
-3. [ERD](#erd)
-4. [Future Improvements](#future-improvements)
+3. [Future Improvements](#future-improvements)
 
 ---
 
@@ -42,10 +41,7 @@ QuillConnect is a social networking platform for writers to share their posts, c
   SMTP_USERNAME=
   SMTP_PASSWORD=
   ```
-
-## **EDR**
-
-  
+    
 ## **Future Improvements**
 
 1. **Add Scopes**
